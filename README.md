@@ -11,6 +11,8 @@
 - [Citing](#citing)
 
 ## What's New
+## May 8, 2026
+* Release 1.0.27
 
 ## April 23, 2026
 * Add Gemma4 ViT encoders w/ NaFlex pipeline support (variable aspect/size per image). Thanks [Yonghye Kwon](https://github.com/developer0hye)
