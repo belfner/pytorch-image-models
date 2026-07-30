@@ -1,0 +1,3 @@
+[submodule "lingbot-vision"]
+	path = lingbot-vision
+	url = https://github.com/robbyant/lingbot-vision.git
